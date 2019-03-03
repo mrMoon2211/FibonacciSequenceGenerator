@@ -5,7 +5,7 @@ This is a fun project I did with my limited programming knowledge. I am sharing 
 To run this program, navigate to "bin/Release" folder and open command prompt or console here. Type out "FibonacciSequenceARGS" followed by a space and the number of Fibonacci Numbers you want to generate.
 
 Example:
-You want to generate 20 numbers, type on the console or command promp:
+If you want to generate 20 numbers, type on the console or command promp:
 ```
 FibonacciSequenceARGS 20
 ```
