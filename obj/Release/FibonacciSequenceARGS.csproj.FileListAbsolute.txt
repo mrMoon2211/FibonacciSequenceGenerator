@@ -1,0 +1,6 @@
+C:\Dev\C#\FibonacciSequenceARGS\FibonacciSequenceARGS\bin\Release\FibonacciSequenceARGS.exe.config
+C:\Dev\C#\FibonacciSequenceARGS\FibonacciSequenceARGS\bin\Release\FibonacciSequenceARGS.exe
+C:\Dev\C#\FibonacciSequenceARGS\FibonacciSequenceARGS\bin\Release\FibonacciSequenceARGS.pdb
+C:\Dev\C#\FibonacciSequenceARGS\FibonacciSequenceARGS\obj\Release\FibonacciSequenceARGS.csproj.CoreCompileInputs.cache
+C:\Dev\C#\FibonacciSequenceARGS\FibonacciSequenceARGS\obj\Release\FibonacciSequenceARGS.exe
+C:\Dev\C#\FibonacciSequenceARGS\FibonacciSequenceARGS\obj\Release\FibonacciSequenceARGS.pdb
